@@ -11,7 +11,7 @@ The Teradata SQL Chatbot is a Streamlit-based application powered by OpenAI's GP
 
 ## Usage
 **Run the Application:**
-  streamlit run app.py
+- streamlit run app.py
 
 **User Interface:**
 1. Enter your natural language request in the text input (e.g., "Show total sales per region") and press Enter.
